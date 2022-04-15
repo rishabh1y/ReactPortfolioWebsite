@@ -1,0 +1,399 @@
+
+h1{
+    height: 10%;
+    font-size: 50px;
+    text-align: center;
+    justify-content: center;
+}
+.myacademics{
+    height: 100vh;
+    background-color: white;
+}
+.skill{
+height: 90%;
+
+.skill1{
+    width: 30%;
+    height: 90%;
+    position: absolute;
+    margin-left: 10%;
+    
+    h2{
+        margin-left: 85px;
+        margin-top: 60px;
+    }
+   
+    .outer{
+        height:220px;
+        width: 220px;
+        position: absolute;
+        top:10;
+        margin-left: 8px;
+        margin-top: 9px;
+        
+        border-radius: 50%;
+        box-shadow:6px 6px 10px -1px rgba(0,0,0,0.15),
+                   -6px -6px 10px -1px rgba(255,255,255,0.7);
+        
+        
+        
+        .inner{
+            height: 80px;
+            width: 80px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 40px;
+            padding: 28px;
+            box-shadow:inset 4px 4px 6px -1px rgba(0,0,0,0.2),
+                       inset -4px -4px 6px -1px rgba(255,255,255,0.7),
+                       -0.5px -0.5px 0px rgba(255,255,255,1),
+                       0.5px 0.5px 0px rgba(0,0,0,0.15),
+                       0px 12px 10px -10px rgba(0,0,0,0.05);
+        
+        #number{
+            font-weight: 600;
+            color:black;
+        }
+        
+    }
+    svg{
+        position: absolute;
+        top:10;
+        margin-left: 10px;
+    }
+    }
+    circle{
+        fill: none;
+        stroke:url(#GradientColor);
+        stroke-width: 21px;
+        stroke-dasharray: 501.999;
+        stroke-dashoffset:501.999 ;
+        animation:anim1 2s linear forwards;
+    }
+    .circleclr{
+        margin-left: 28px;
+        margin-top: 28px;
+
+    }
+
+    @keyframes anim1{
+        100%{
+            stroke-dashoffset: 125.49;
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+.skill2{
+    width: 30%;
+    height: 90%;
+    position: absolute;
+    margin-left: 40%;
+    
+    h2{
+        margin-left: 85px;
+        margin-top: 60px;
+    }
+   
+    .outer{
+        height:220px;
+        width: 220px;
+        position: absolute;
+        top:10;
+        margin-left: 8px;
+        margin-top: 9px;
+        
+        border-radius: 50%;
+        box-shadow:6px 6px 10px -1px rgba(0,0,0,0.15),
+                   -6px -6px 10px -1px rgba(255,255,255,0.7);
+        
+        
+        
+        .inner{
+            height: 80px;
+            width: 80px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 40px;
+            padding: 28px;
+            box-shadow:inset 4px 4px 6px -1px rgba(0,0,0,0.2),
+                       inset -4px -4px 6px -1px rgba(255,255,255,0.7),
+                       -0.5px -0.5px 0px rgba(255,255,255,1),
+                       0.5px 0.5px 0px rgba(0,0,0,0.15),
+                       0px 12px 10px -10px rgba(0,0,0,0.05);
+        
+        #number{
+            font-weight: 600;
+            color:black;
+        }
+        
+    }
+    svg{
+        position: absolute;
+        top:10;
+        margin-left: 10px;
+    }
+    }
+    circle{
+        fill: none;
+        stroke:url(#GradientColor);
+        stroke-width: 21px;
+        stroke-dasharray: 501.999;
+        stroke-dashoffset:501.999 ;
+        animation:anim2 2s linear forwards;
+    }
+    .circleclr{
+        margin-left: 28px;
+        margin-top: 28px;
+
+    }
+
+    @keyframes anim2{
+        100%{
+            stroke-dashoffset: 150.59;
+        }
+    }
+
+}
+
+
+
+
+.skill3{
+    width: 30%;
+    height: 90%;
+    position: absolute;
+    margin-left:70%;
+    
+    h2{
+        margin-left: 85px;
+        margin-top: 60px;
+    }
+   
+    .outer{
+        height:220px;
+        width: 220px;
+        position: absolute;
+        top:10;
+        margin-left: 8px;
+        margin-top: 9px;
+        
+        border-radius: 50%;
+        box-shadow:6px 6px 10px -1px rgba(0,0,0,0.15),
+                   -6px -6px 10px -1px rgba(255,255,255,0.7);
+        
+        
+        
+        .inner{
+            height: 80px;
+            width: 80px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 40px;
+            padding: 28px;
+            box-shadow:inset 4px 4px 6px -1px rgba(0,0,0,0.2),
+                       inset -4px -4px 6px -1px rgba(255,255,255,0.7),
+                       -0.5px -0.5px 0px rgba(255,255,255,1),
+                       0.5px 0.5px 0px rgba(0,0,0,0.15),
+                       0px 12px 10px -10px rgba(0,0,0,0.05);
+        
+        #number{
+            font-weight: 600;
+            color:black;
+        }
+        
+    }
+    svg{
+        position: absolute;
+        top:10;
+        margin-left: 10px;
+    }
+    }
+    circle{
+        fill: none;
+        stroke:url(#GradientColor);
+        stroke-width: 21px;
+        stroke-dasharray: 501.999;
+        stroke-dashoffset:501.999 ;
+        animation:anim3 2s linear forwards;
+    }
+    .circleclr{
+        margin-left: 28px;
+        margin-top: 28px;
+
+    }
+
+    @keyframes anim3{
+        100%{
+            stroke-dashoffset: 50.19;
+        }
+    }
+
+}
+
+
+.skill4{
+    width: 30%;
+    height: 90%;
+    position: absolute;
+    margin-left:55%;
+    margin-top:19%;    
+    h2{
+        margin-left: 85px;
+        margin-top: 60px;
+    }
+   
+    .outer{
+        height:220px;
+        width: 220px;
+        position: absolute;
+        top:10;
+        margin-left: 8px;
+        margin-top: 9px;
+        
+        border-radius: 50%;
+        box-shadow:6px 6px 10px -1px rgba(0,0,0,0.15),
+                   -6px -6px 10px -1px rgba(255,255,255,0.7);
+        
+        
+        
+        .inner{
+            height: 80px;
+            width: 80px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 40px;
+            padding: 28px;
+            box-shadow:inset 4px 4px 6px -1px rgba(0,0,0,0.2),
+                       inset -4px -4px 6px -1px rgba(255,255,255,0.7),
+                       -0.5px -0.5px 0px rgba(255,255,255,1),
+                       0.5px 0.5px 0px rgba(0,0,0,0.15),
+                       0px 12px 10px -10px rgba(0,0,0,0.05);
+        
+        #number{
+            font-weight: 600;
+            color:black;
+        }
+        
+    }
+    svg{
+        position: absolute;
+        top:10;
+        margin-left: 10px;
+    }
+    }
+    circle{
+        fill: none;
+        stroke:url(#GradientColor);
+        stroke-width: 21px;
+        stroke-dasharray: 501.999;
+        stroke-dashoffset:501.999 ;
+        animation:anim4 2s linear forwards;
+    }
+    .circleclr{
+        margin-left: 28px;
+        margin-top: 28px;
+
+    }
+
+    @keyframes anim4{
+        100%{
+            stroke-dashoffset: 250.99;
+        }
+    }
+
+}
+
+
+
+
+.skill5{
+    width: 30%;
+    height: 90%;
+    position: absolute;
+    margin-left:25%;
+    margin-top:19%;    
+    h2{
+        margin-left: 85px;
+        margin-top: 60px;
+    }
+   
+    .outer{
+        height:220px;
+        width: 220px;
+        position: absolute;
+        top:10;
+        margin-left: 8px;
+        margin-top: 9px;
+        
+        border-radius: 50%;
+        box-shadow:6px 6px 10px -1px rgba(0,0,0,0.15),
+                   -6px -6px 10px -1px rgba(255,255,255,0.7);
+        
+        
+        
+        .inner{
+            height: 80px;
+            width: 80px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 40px;
+            padding: 28px;
+            box-shadow:inset 4px 4px 6px -1px rgba(0,0,0,0.2),
+                       inset -4px -4px 6px -1px rgba(255,255,255,0.7),
+                       -0.5px -0.5px 0px rgba(255,255,255,1),
+                       0.5px 0.5px 0px rgba(0,0,0,0.15),
+                       0px 12px 10px -10px rgba(0,0,0,0.05);
+        
+        #number{
+            font-weight: 600;
+            color:black;
+        }
+        
+    }
+    svg{
+        position: absolute;
+        top:10;
+        margin-left: 10px;
+    }
+    }
+    circle{
+        fill: none;
+        stroke:url(#GradientColor);
+        stroke-width: 21px;
+        stroke-dasharray: 501.999;
+        stroke-dashoffset:501.999 ;
+        animation:anim5 2s linear forwards;
+    }
+    .circleclr{
+        margin-left: 28px;
+        margin-top: 28px;
+
+    }
+
+    @keyframes anim5{
+        100%{
+            stroke-dashoffset: 326.29;
+        }
+    }
+
+}
+
+}
