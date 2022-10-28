@@ -7,16 +7,17 @@ const data = [
 
   {
     id :"1",
-    title: "Calculator",
-    desc: "This website is a calculator i.e You can use it for daily life simple calculations ",
-    img: <img src="assets/calc.png" alt="" /> ,
+    title: "Candy Crush",
+    desc: "A Game Website where you can have fun and play candy crush , created using ReactJS",
+    img: <img src="assets/candycrush.png" alt="" /> ,
     
   },
+  
   {
-    id :"2",
-    title: "Gym Website",
-    desc: "This website is for taking Gym membership and using Different Health calculators",
-    img: <img src="assets/gym.png" alt="" />  ,
+    id: "2",
+    title: "Dice Game",
+    desc: "Dice game made using HTML, CSS and Javascript",
+    img: <img src="assets/dice.png" alt="" />,
   },
   {
     id: "3",
@@ -24,11 +25,14 @@ const data = [
     desc: "A simple Analog Clock which shows Time and made with pure html,css and js",
     img: <img src="assets/clock.png" alt="" />,
   },
+
+  
   {
-    id: "3",
-    title: "Dice Game",
-    desc: "Dice game made using HTML, CSS and Javascript",
-    img: <img src="assets/dice.png" alt="" />,
+    id :"4",
+    title: "Calculator",
+    desc: "This website is a calculator i.e You can use it for daily life simple calculations ",
+    img: <img src="assets/calc.png" alt="" /> ,
+    
   }
   
 ];

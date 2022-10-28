@@ -7,9 +7,9 @@ export default function Menu({menuOpen,setMenuOpen}) {
             <li onClick={()=>setMenuOpen(false)}>
                 <a href="#intro">Home</a>
             </li>
-            <li onClick={()=>setMenuOpen(false)}>
+            {/* <li onClick={()=>setMenuOpen(false)}>
                 <a href="#myacademics">My Skills</a>
-            </li>
+            </li> */}
             <li onClick={()=>setMenuOpen(false)}>
                 <a href="#works">Works</a>
             </li>

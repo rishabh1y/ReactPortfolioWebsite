@@ -1,6 +1,6 @@
 import Contact from "./components/contact/Contact";
 import Intro from "./components/intro/Intro";
-import Portfolio from "./components/portfolio/Portfolio";
+// import Portfolio from "./components/portfolio/Portfolio";
 import Topbar from "./components/topbar/Topbar";
 import Works from "./components/works/Works";
 import "./app.scss"
@@ -15,7 +15,7 @@ function App() {
     <div className="sections">
       
        <Intro/>
-      <Portfolio/>
+      {/* <Portfolio/> */}
       <Works/>
       <Contact/>
       

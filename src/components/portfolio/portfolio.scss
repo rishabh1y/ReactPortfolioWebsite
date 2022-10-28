@@ -1,9 +1,13 @@
-
+@import "../../global.scss";
 h1{
     height: 10%;
     font-size: 50px;
     text-align: center;
     justify-content: center;
+    
+    @include mobile{
+        font-size: 20px;
+    }
 }
 .myacademics{
     height: 100vh;
@@ -83,6 +87,8 @@ height: 90%;
             stroke-dashoffset: 125.49;
         }
     }
+
+    
 }
 
 
@@ -395,5 +401,8 @@ height: 90%;
     }
 
 }
+
+
+
 
 }

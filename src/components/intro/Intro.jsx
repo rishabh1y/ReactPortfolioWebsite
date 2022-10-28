@@ -25,12 +25,12 @@ export default function Intro() {
         <h2>Hi There, I'm</h2>
         <h1>Rishabh Yadav</h1>
         <h3>
-          Beginner in <span ref={textRef}></span>
+          Working on <span ref={textRef}></span>
           </h3>
       </div>
-      <a href="#portfolio">
+      {/* <a href="#portfolio">
         <img src="assets/downarrow.png" alt=""/>
-      </a>
+      </a> */}
     </div>
     </div>
   )
